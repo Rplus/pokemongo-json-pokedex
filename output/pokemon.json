@@ -40440,9 +40440,9 @@
         "kmBuddyDistance": 20,
         "weight": 60.8,
         "stats": {
-            "baseAttack": 1,
-            "baseDefense": 1,
-            "baseStamina": 1
+            "baseAttack": 345,
+            "baseDefense": 115,
+            "baseStamina": 100
         },
         "types": [
             {
